@@ -51,7 +51,7 @@
     "robotsSwitcher": true,
     "siteUrl": "https://tantra-shibari.cz",
     "sitemapSwitcherAuto": true,
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-119553487-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-119553487-1');\r\n</script>",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-DTWTGWKY45\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-DTWTGWKY45');\n</script>",
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
@@ -74,7 +74,7 @@
     ],
     "": "on",
     "imageResize": false,
-    "mbrsiteDomain": "7iuecbgprq",
+    "mbrsiteDomain": "iwlglwjdei",
     "publishChangesOnly": false,
     "usedWebp": false
   },
